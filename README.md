@@ -1,7 +1,7 @@
 # Hi👋, I'm Tushar Utane (Front-End React Developer)✌️
 
 # 💫 About Me:
-🔭 I’m currently working on: Open Source Contributions<br>🌱 I’m currently learning: Typescript & Frontend technologies<br>💬 Ask me about: REACT & FIREBASE<br>
+🔭 I’m currently working on: Open Source Contributions<br><br>💬 Ask me about: REACT & FIREBASE<br>
 
 
 ## 🌐 Socials:
