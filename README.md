@@ -1,4 +1,5 @@
 # Hi👋, I'm Tushar Utane (Front-End React Developer)✌️
+[![An image of @tusharutane07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tusharutane07)](https://holopin.io/@tusharutane07)
 
 # 💫 About Me:
 🔭 I’m currently working on: Open Source Contributions<br><br>💬 Ask me about: REACT & FIREBASE<br>
