@@ -52,24 +52,24 @@ I'm a frontend developer passionate about crafting intuitive and seamless user i
   <table>
     <tr>
       <td>
-        <a href="https://your-project1-link.com" target="_blank">
+        <a href="https://nextride-pi.vercel.app/" target="_blank">
           <img width="1710" alt="Car Rental" src="https://github.com/user-attachments/assets/aeb82367-ccfb-444e-a784-022e3da9c3d4">
         </a>
       </td>
       <td>
-        <a href="https://your-project2-link.com" target="_blank">
+        <a href="https://nexa-mocha.vercel.app/" target="_blank">
           <img width="1710" alt="homepage" src="https://github.com/user-attachments/assets/4733c4a3-d843-4a38-9520-9ce5f8a5ea4d">
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://your-project3-link.com" target="_blank">
+        <a href="https://cryptobase-rho.vercel.app/" target="_blank">
           <img width="1710" alt="Project 3 Screenshot" src="https://github.com/user-attachments/assets/6cd07334-0c18-46c5-a535-8e91eb70dc65">
         </a>
       </td>
       <td>
-        <a href="https://your-project4-link.com" target="_blank">
+        <a href="https://www.tusharutane.com" target="_blank">
           <img width="1710" alt="Project 4 Screenshot" src="https://github.com/user-attachments/assets/2951314d-c83f-4b1b-b220-8968b2a2a0ff">
         </a>
       </td>
