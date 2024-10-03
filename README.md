@@ -90,6 +90,9 @@ I'm a frontend developer passionate about crafting intuitive and seamless user i
       <td>
 <img
 src="https://github-readme-streak-stats.herokuapp.com/?user=tusharutane07&theme=dark&hide_border=false" alt="streak"/>
+      </td>
+      <td>
+        
 <img
 src="https://github-readme-stats.vercel.app/api?username=tusharutane07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)" alt="streak"/>
       </td>
