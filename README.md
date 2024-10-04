@@ -30,8 +30,6 @@ I'm a frontend developer passionate about crafting intuitive and seamless user i
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
