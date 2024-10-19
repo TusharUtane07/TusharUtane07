@@ -82,21 +82,6 @@ I'm a frontend developer passionate about crafting intuitive and seamless user i
 *May 2024 – October 2024*
 - Developed 5+ full-stack applications, including a Hospital Management System, Music App, and Learning Management System, utilizing **React.js**, **Firebase**, **Tailwind CSS**, and **Django**, providing efficient digital solutions for businesses.
 
-## Github Stats 🧑‍💻
-  <table>
-    <tr>
-      <td>
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=tusharutane07&theme=dark&hide_border=false" alt="streak"/>
-      </td>
-      <td>
-        
-<img
-src="https://github-readme-stats.vercel.app/api?username=tusharutane07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)" alt="streak"/>
-      </td>
-    </tr>
-  </table>
-
 
 ## Connect 🌐
 <div>
